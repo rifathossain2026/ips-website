@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://www.ips-geneva.org/sitemap.xml
